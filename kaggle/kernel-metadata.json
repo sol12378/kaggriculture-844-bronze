@@ -1,0 +1,14 @@
+{
+  "id": "sol12378/kaggriculture-401-silver-rank95-front97",
+  "title": "Kaggriculture 401 Silver rank95 front97",
+  "code_file": "kaggriculture-401-silver-rank95-front97.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "false",
+  "enable_gpu": "false",
+  "enable_internet": "false",
+  "dataset_sources": [],
+  "competition_sources": ["kaggriculture"],
+  "kernel_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,5 @@
+{
+  "parent": "rank95_basic",
+  "opponent_plan": "rank97_basic development replay",
+  "mechanism": "bounded public-plan market anticipation"
+}

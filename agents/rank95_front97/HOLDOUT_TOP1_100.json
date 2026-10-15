@@ -1,0 +1,1306 @@
+{
+  "engine": "FAST_SIM_1327_READY; held-out fixed action tapes, not live opponents",
+  "candidate": "rank95_front97",
+  "rows": [
+    {
+      "rank": 1,
+      "episode_id": "115786956",
+      "new_seed": 9530072,
+      "candidate": {
+        "seat0_margin": 27196.0,
+        "seat1_margin": 27019.0
+      },
+      "submitted": {
+        "seat0_margin": 680.0,
+        "seat1_margin": 680.0
+      }
+    },
+    {
+      "rank": 2,
+      "episode_id": "115786956",
+      "new_seed": 9530143,
+      "candidate": {
+        "seat0_margin": 3038.0,
+        "seat1_margin": 3038.0
+      },
+      "submitted": {
+        "seat0_margin": 34511.0,
+        "seat1_margin": 34511.0
+      }
+    },
+    {
+      "rank": 3,
+      "episode_id": "115786975",
+      "new_seed": 9530214,
+      "candidate": {
+        "seat0_margin": 42195.0,
+        "seat1_margin": 48186.0
+      },
+      "submitted": {
+        "seat0_margin": 34111.0,
+        "seat1_margin": 34111.0
+      }
+    },
+    {
+      "rank": 4,
+      "episode_id": "115785509",
+      "new_seed": 9530285,
+      "candidate": {
+        "seat0_margin": 121453.0,
+        "seat1_margin": 121453.0
+      },
+      "submitted": {
+        "seat0_margin": 83984.0,
+        "seat1_margin": 83984.0
+      }
+    },
+    {
+      "rank": 5,
+      "episode_id": "115787081",
+      "new_seed": 9530356,
+      "candidate": {
+        "seat0_margin": 32790.0,
+        "seat1_margin": 32790.0
+      },
+      "submitted": {
+        "seat0_margin": -20726.0,
+        "seat1_margin": -20726.0
+      }
+    },
+    {
+      "rank": 6,
+      "episode_id": "115788575",
+      "new_seed": 9530427,
+      "candidate": {
+        "seat0_margin": 103682.0,
+        "seat1_margin": 103682.0
+      },
+      "submitted": {
+        "seat0_margin": 116120.0,
+        "seat1_margin": 116120.0
+      }
+    },
+    {
+      "rank": 7,
+      "episode_id": "115787070",
+      "new_seed": 9530498,
+      "candidate": {
+        "seat0_margin": 118078.0,
+        "seat1_margin": 118078.0
+      },
+      "submitted": {
+        "seat0_margin": 67213.0,
+        "seat1_margin": 67213.0
+      }
+    },
+    {
+      "rank": 8,
+      "episode_id": "115786975",
+      "new_seed": 9530569,
+      "candidate": {
+        "seat0_margin": 19729.0,
+        "seat1_margin": 19729.0
+      },
+      "submitted": {
+        "seat0_margin": 55.0,
+        "seat1_margin": 55.0
+      }
+    },
+    {
+      "rank": 9,
+      "episode_id": "115789857",
+      "new_seed": 9530640,
+      "candidate": {
+        "seat0_margin": 63172.0,
+        "seat1_margin": 63172.0
+      },
+      "submitted": {
+        "seat0_margin": 32237.0,
+        "seat1_margin": 32237.0
+      }
+    },
+    {
+      "rank": 10,
+      "episode_id": "115788401",
+      "new_seed": 9530711,
+      "candidate": {
+        "seat0_margin": -8860.0,
+        "seat1_margin": -8860.0
+      },
+      "submitted": {
+        "seat0_margin": -19077.0,
+        "seat1_margin": -19077.0
+      }
+    },
+    {
+      "rank": 11,
+      "episode_id": "115786312",
+      "new_seed": 9530782,
+      "candidate": {
+        "seat0_margin": 76465.0,
+        "seat1_margin": 76027.0
+      },
+      "submitted": {
+        "seat0_margin": 54665.0,
+        "seat1_margin": 54665.0
+      }
+    },
+    {
+      "rank": 12,
+      "episode_id": "115786862",
+      "new_seed": 9530853,
+      "candidate": {
+        "seat0_margin": 32076.0,
+        "seat1_margin": 31767.0
+      },
+      "submitted": {
+        "seat0_margin": -744.0,
+        "seat1_margin": -744.0
+      }
+    },
+    {
+      "rank": 13,
+      "episode_id": "115788148",
+      "new_seed": 9530924,
+      "candidate": {
+        "seat0_margin": 15294.0,
+        "seat1_margin": 15294.0
+      },
+      "submitted": {
+        "seat0_margin": -2507.0,
+        "seat1_margin": -2507.0
+      }
+    },
+    {
+      "rank": 14,
+      "episode_id": "115786992",
+      "new_seed": 9530995,
+      "candidate": {
+        "seat0_margin": -13346.0,
+        "seat1_margin": -13346.0
+      },
+      "submitted": {
+        "seat0_margin": 30486.0,
+        "seat1_margin": 30486.0
+      }
+    },
+    {
+      "rank": 15,
+      "episode_id": "115784873",
+      "new_seed": 9531066,
+      "candidate": {
+        "seat0_margin": 26505.0,
+        "seat1_margin": 24707.0
+      },
+      "submitted": {
+        "seat0_margin": -753.0,
+        "seat1_margin": -753.0
+      }
+    },
+    {
+      "rank": 16,
+      "episode_id": "115791225",
+      "new_seed": 9531137,
+      "candidate": {
+        "seat0_margin": -5781.0,
+        "seat1_margin": -5084.0
+      },
+      "submitted": {
+        "seat0_margin": 2279.0,
+        "seat1_margin": 2279.0
+      }
+    },
+    {
+      "rank": 17,
+      "episode_id": "115787070",
+      "new_seed": 9531208,
+      "candidate": {
+        "seat0_margin": 23091.0,
+        "seat1_margin": 24750.0
+      },
+      "submitted": {
+        "seat0_margin": 33225.0,
+        "seat1_margin": 33225.0
+      }
+    },
+    {
+      "rank": 18,
+      "episode_id": "115788430",
+      "new_seed": 9531279,
+      "candidate": {
+        "seat0_margin": 75566.0,
+        "seat1_margin": 75566.0
+      },
+      "submitted": {
+        "seat0_margin": 51969.0,
+        "seat1_margin": 51969.0
+      }
+    },
+    {
+      "rank": 19,
+      "episode_id": "115791236",
+      "new_seed": 9531350,
+      "candidate": {
+        "seat0_margin": 11551.0,
+        "seat1_margin": 11551.0
+      },
+      "submitted": {
+        "seat0_margin": -3029.0,
+        "seat1_margin": -3029.0
+      }
+    },
+    {
+      "rank": 20,
+      "episode_id": "115786890",
+      "new_seed": 9531421,
+      "candidate": {
+        "seat0_margin": 86099.0,
+        "seat1_margin": 86099.0
+      },
+      "submitted": {
+        "seat0_margin": 25154.0,
+        "seat1_margin": 25154.0
+      }
+    },
+    {
+      "rank": 21,
+      "episode_id": "115786890",
+      "new_seed": 9531492,
+      "candidate": {
+        "seat0_margin": -1412.0,
+        "seat1_margin": -1412.0
+      },
+      "submitted": {
+        "seat0_margin": 27048.0,
+        "seat1_margin": 27048.0
+      }
+    },
+    {
+      "rank": 22,
+      "episode_id": "115785536",
+      "new_seed": 9531563,
+      "candidate": {
+        "seat0_margin": 17806.0,
+        "seat1_margin": 17806.0
+      },
+      "submitted": {
+        "seat0_margin": -870.0,
+        "seat1_margin": -870.0
+      }
+    },
+    {
+      "rank": 23,
+      "episode_id": "115788390",
+      "new_seed": 9531634,
+      "candidate": {
+        "seat0_margin": 83172.0,
+        "seat1_margin": 83172.0
+      },
+      "submitted": {
+        "seat0_margin": 51452.0,
+        "seat1_margin": 51452.0
+      }
+    },
+    {
+      "rank": 24,
+      "episode_id": "115789983",
+      "new_seed": 9531705,
+      "candidate": {
+        "seat0_margin": -41606.0,
+        "seat1_margin": -41606.0
+      },
+      "submitted": {
+        "seat0_margin": 42005.0,
+        "seat1_margin": 42005.0
+      }
+    },
+    {
+      "rank": 25,
+      "episode_id": "115789983",
+      "new_seed": 9531776,
+      "candidate": {
+        "seat0_margin": -2686.0,
+        "seat1_margin": -2686.0
+      },
+      "submitted": {
+        "seat0_margin": -35428.0,
+        "seat1_margin": -35428.0
+      }
+    },
+    {
+      "rank": 26,
+      "episode_id": "115791560",
+      "new_seed": 9531847,
+      "candidate": {
+        "seat0_margin": 59311.0,
+        "seat1_margin": 59311.0
+      },
+      "submitted": {
+        "seat0_margin": 82211.0,
+        "seat1_margin": 82211.0
+      }
+    },
+    {
+      "rank": 27,
+      "episode_id": "115789536",
+      "new_seed": 9531918,
+      "candidate": {
+        "seat0_margin": 15237.0,
+        "seat1_margin": 15237.0
+      },
+      "submitted": {
+        "seat0_margin": -20139.0,
+        "seat1_margin": -20139.0
+      }
+    },
+    {
+      "rank": 28,
+      "episode_id": "115793074",
+      "new_seed": 9531989,
+      "candidate": {
+        "seat0_margin": 39888.0,
+        "seat1_margin": 39270.0
+      },
+      "submitted": {
+        "seat0_margin": -12441.0,
+        "seat1_margin": -12441.0
+      }
+    },
+    {
+      "rank": 29,
+      "episode_id": "115790804",
+      "new_seed": 9532060,
+      "candidate": {
+        "seat0_margin": 93370.0,
+        "seat1_margin": 93370.0
+      },
+      "submitted": {
+        "seat0_margin": 38921.0,
+        "seat1_margin": 38921.0
+      }
+    },
+    {
+      "rank": 30,
+      "episode_id": "115789332",
+      "new_seed": 9532131,
+      "candidate": {
+        "seat0_margin": 48403.0,
+        "seat1_margin": 44580.0
+      },
+      "submitted": {
+        "seat0_margin": 16411.0,
+        "seat1_margin": 16411.0
+      }
+    },
+    {
+      "rank": 31,
+      "episode_id": "115785484",
+      "new_seed": 9532202,
+      "candidate": {
+        "seat0_margin": -2118.0,
+        "seat1_margin": -2118.0
+      },
+      "submitted": {
+        "seat0_margin": 10312.0,
+        "seat1_margin": 10312.0
+      }
+    },
+    {
+      "rank": 32,
+      "episode_id": "115790804",
+      "new_seed": 9532273,
+      "candidate": {
+        "seat0_margin": 9814.0,
+        "seat1_margin": 9814.0
+      },
+      "submitted": {
+        "seat0_margin": 25261.0,
+        "seat1_margin": 25261.0
+      }
+    },
+    {
+      "rank": 33,
+      "episode_id": "115786865",
+      "new_seed": 9532344,
+      "candidate": {
+        "seat0_margin": 65782.0,
+        "seat1_margin": 55126.0
+      },
+      "submitted": {
+        "seat0_margin": 44048.0,
+        "seat1_margin": 44048.0
+      }
+    },
+    {
+      "rank": 34,
+      "episode_id": "115791141",
+      "new_seed": 9532415,
+      "candidate": {
+        "seat0_margin": 16364.0,
+        "seat1_margin": 16364.0
+      },
+      "submitted": {
+        "seat0_margin": 6699.0,
+        "seat1_margin": 6699.0
+      }
+    },
+    {
+      "rank": 35,
+      "episode_id": "115785549",
+      "new_seed": 9532486,
+      "candidate": {
+        "seat0_margin": -3646.0,
+        "seat1_margin": -1600.0
+      },
+      "submitted": {
+        "seat0_margin": 49781.0,
+        "seat1_margin": 49506.0
+      }
+    },
+    {
+      "rank": 36,
+      "episode_id": "115786865",
+      "new_seed": 9532557,
+      "candidate": {
+        "seat0_margin": 39599.0,
+        "seat1_margin": 39599.0
+      },
+      "submitted": {
+        "seat0_margin": 34549.0,
+        "seat1_margin": 34549.0
+      }
+    },
+    {
+      "rank": 37,
+      "episode_id": "115786992",
+      "new_seed": 9532628,
+      "candidate": {
+        "seat0_margin": -17373.0,
+        "seat1_margin": -18764.0
+      },
+      "submitted": {
+        "seat0_margin": -11869.0,
+        "seat1_margin": -11869.0
+      }
+    },
+    {
+      "rank": 38,
+      "episode_id": "115785287",
+      "new_seed": 9532699,
+      "candidate": {
+        "seat0_margin": 20645.0,
+        "seat1_margin": 20645.0
+      },
+      "submitted": {
+        "seat0_margin": -14661.0,
+        "seat1_margin": -14661.0
+      }
+    },
+    {
+      "rank": 39,
+      "episode_id": "115789686",
+      "new_seed": 9532770,
+      "candidate": {
+        "seat0_margin": 32467.0,
+        "seat1_margin": 32467.0
+      },
+      "submitted": {
+        "seat0_margin": 63666.0,
+        "seat1_margin": 63666.0
+      }
+    },
+    {
+      "rank": 40,
+      "episode_id": "115789914",
+      "new_seed": 9532841,
+      "candidate": {
+        "seat0_margin": 28659.0,
+        "seat1_margin": 28659.0
+      },
+      "submitted": {
+        "seat0_margin": -2200.0,
+        "seat1_margin": -2200.0
+      }
+    },
+    {
+      "rank": 41,
+      "episode_id": "115785376",
+      "new_seed": 9532912,
+      "candidate": {
+        "seat0_margin": 16284.0,
+        "seat1_margin": 16284.0
+      },
+      "submitted": {
+        "seat0_margin": 13161.0,
+        "seat1_margin": 13161.0
+      }
+    },
+    {
+      "rank": 42,
+      "episode_id": "115785487",
+      "new_seed": 9532983,
+      "candidate": {
+        "seat0_margin": 34632.0,
+        "seat1_margin": 34632.0
+      },
+      "submitted": {
+        "seat0_margin": 1749.0,
+        "seat1_margin": 1749.0
+      }
+    },
+    {
+      "rank": 43,
+      "episode_id": "115785461",
+      "new_seed": 9533054,
+      "candidate": {
+        "seat0_margin": 35509.0,
+        "seat1_margin": 35509.0
+      },
+      "submitted": {
+        "seat0_margin": 33243.0,
+        "seat1_margin": 33243.0
+      }
+    },
+    {
+      "rank": 44,
+      "episode_id": "115789445",
+      "new_seed": 9533125,
+      "candidate": {
+        "seat0_margin": 101591.0,
+        "seat1_margin": 101337.0
+      },
+      "submitted": {
+        "seat0_margin": -9094.0,
+        "seat1_margin": -9094.0
+      }
+    },
+    {
+      "rank": 45,
+      "episode_id": "115788566",
+      "new_seed": 9533196,
+      "candidate": {
+        "seat0_margin": 4184.0,
+        "seat1_margin": 4184.0
+      },
+      "submitted": {
+        "seat0_margin": 5959.0,
+        "seat1_margin": 5959.0
+      }
+    },
+    {
+      "rank": 46,
+      "episode_id": "115785549",
+      "new_seed": 9533267,
+      "candidate": {
+        "seat0_margin": 16331.0,
+        "seat1_margin": 16798.0
+      },
+      "submitted": {
+        "seat0_margin": 12420.0,
+        "seat1_margin": 12420.0
+      }
+    },
+    {
+      "rank": 47,
+      "episode_id": "115782114",
+      "new_seed": 9533338,
+      "candidate": {
+        "seat0_margin": 118711.0,
+        "seat1_margin": 118711.0
+      },
+      "submitted": {
+        "seat0_margin": 59473.0,
+        "seat1_margin": 59473.0
+      }
+    },
+    {
+      "rank": 48,
+      "episode_id": "115787055",
+      "new_seed": 9533409,
+      "candidate": {
+        "seat0_margin": 23334.0,
+        "seat1_margin": 23334.0
+      },
+      "submitted": {
+        "seat0_margin": 11711.0,
+        "seat1_margin": 11711.0
+      }
+    },
+    {
+      "rank": 49,
+      "episode_id": "115791611",
+      "new_seed": 9533480,
+      "candidate": {
+        "seat0_margin": 4568.0,
+        "seat1_margin": 4568.0
+      },
+      "submitted": {
+        "seat0_margin": 25356.0,
+        "seat1_margin": 25356.0
+      }
+    },
+    {
+      "rank": 50,
+      "episode_id": "115790010",
+      "new_seed": 9533551,
+      "candidate": {
+        "seat0_margin": 99366.0,
+        "seat1_margin": 99366.0
+      },
+      "submitted": {
+        "seat0_margin": 63035.0,
+        "seat1_margin": 63035.0
+      }
+    },
+    {
+      "rank": 51,
+      "episode_id": "115789420",
+      "new_seed": 9533622,
+      "candidate": {
+        "seat0_margin": 22664.0,
+        "seat1_margin": 22664.0
+      },
+      "submitted": {
+        "seat0_margin": 30483.0,
+        "seat1_margin": 30483.0
+      }
+    },
+    {
+      "rank": 52,
+      "episode_id": "115788143",
+      "new_seed": 9533693,
+      "candidate": {
+        "seat0_margin": 48062.0,
+        "seat1_margin": 48062.0
+      },
+      "submitted": {
+        "seat0_margin": -13103.0,
+        "seat1_margin": -13103.0
+      }
+    },
+    {
+      "rank": 53,
+      "episode_id": "115786184",
+      "new_seed": 9533764,
+      "candidate": {
+        "seat0_margin": 68446.0,
+        "seat1_margin": 68446.0
+      },
+      "submitted": {
+        "seat0_margin": 8511.0,
+        "seat1_margin": 8511.0
+      }
+    },
+    {
+      "rank": 54,
+      "episode_id": "115791584",
+      "new_seed": 9533835,
+      "candidate": {
+        "seat0_margin": 72970.0,
+        "seat1_margin": 67079.0
+      },
+      "submitted": {
+        "seat0_margin": 41868.0,
+        "seat1_margin": 41868.0
+      }
+    },
+    {
+      "rank": 55,
+      "episode_id": "115791393",
+      "new_seed": 9533906,
+      "candidate": {
+        "seat0_margin": 17495.0,
+        "seat1_margin": 17495.0
+      },
+      "submitted": {
+        "seat0_margin": 32508.0,
+        "seat1_margin": 32508.0
+      }
+    },
+    {
+      "rank": 56,
+      "episode_id": "115786563",
+      "new_seed": 9533977,
+      "candidate": {
+        "seat0_margin": 50772.0,
+        "seat1_margin": 50772.0
+      },
+      "submitted": {
+        "seat0_margin": 45408.0,
+        "seat1_margin": 45408.0
+      }
+    },
+    {
+      "rank": 57,
+      "episode_id": "115787998",
+      "new_seed": 9534048,
+      "candidate": {
+        "seat0_margin": 16403.0,
+        "seat1_margin": 16403.0
+      },
+      "submitted": {
+        "seat0_margin": 5785.0,
+        "seat1_margin": 5785.0
+      }
+    },
+    {
+      "rank": 58,
+      "episode_id": "115791519",
+      "new_seed": 9534119,
+      "candidate": {
+        "seat0_margin": 80336.0,
+        "seat1_margin": 80336.0
+      },
+      "submitted": {
+        "seat0_margin": 106370.0,
+        "seat1_margin": 106370.0
+      }
+    },
+    {
+      "rank": 59,
+      "episode_id": "115789908",
+      "new_seed": 9534190,
+      "candidate": {
+        "seat0_margin": 16497.0,
+        "seat1_margin": 16497.0
+      },
+      "submitted": {
+        "seat0_margin": -6131.0,
+        "seat1_margin": -6131.0
+      }
+    },
+    {
+      "rank": 60,
+      "episode_id": "115788228",
+      "new_seed": 9534261,
+      "candidate": {
+        "seat0_margin": 22293.0,
+        "seat1_margin": 22293.0
+      },
+      "submitted": {
+        "seat0_margin": 92421.0,
+        "seat1_margin": 92421.0
+      }
+    },
+    {
+      "rank": 61,
+      "episode_id": "115789304",
+      "new_seed": 9534332,
+      "candidate": {
+        "seat0_margin": 21083.0,
+        "seat1_margin": 10970.0
+      },
+      "submitted": {
+        "seat0_margin": 17493.0,
+        "seat1_margin": 17493.0
+      }
+    },
+    {
+      "rank": 62,
+      "episode_id": "115791181",
+      "new_seed": 9534403,
+      "candidate": {
+        "seat0_margin": 13384.0,
+        "seat1_margin": 13384.0
+      },
+      "submitted": {
+        "seat0_margin": 16268.0,
+        "seat1_margin": 16268.0
+      }
+    },
+    {
+      "rank": 63,
+      "episode_id": "115789420",
+      "new_seed": 9534474,
+      "candidate": {
+        "seat0_margin": 32909.0,
+        "seat1_margin": 32909.0
+      },
+      "submitted": {
+        "seat0_margin": 14815.0,
+        "seat1_margin": 14815.0
+      }
+    },
+    {
+      "rank": 64,
+      "episode_id": "115789183",
+      "new_seed": 9534545,
+      "candidate": {
+        "seat0_margin": 30821.0,
+        "seat1_margin": 33393.0
+      },
+      "submitted": {
+        "seat0_margin": -277.0,
+        "seat1_margin": -277.0
+      }
+    },
+    {
+      "rank": 65,
+      "episode_id": "115786901",
+      "new_seed": 9534616,
+      "candidate": {
+        "seat0_margin": 56229.0,
+        "seat1_margin": 56628.0
+      },
+      "submitted": {
+        "seat0_margin": -9646.0,
+        "seat1_margin": -9247.0
+      }
+    },
+    {
+      "rank": 66,
+      "episode_id": "115789958",
+      "new_seed": 9534687,
+      "candidate": {
+        "seat0_margin": 54911.0,
+        "seat1_margin": 54911.0
+      },
+      "submitted": {
+        "seat0_margin": 48039.0,
+        "seat1_margin": 48039.0
+      }
+    },
+    {
+      "rank": 67,
+      "episode_id": "115790016",
+      "new_seed": 9534758,
+      "candidate": {
+        "seat0_margin": 94673.0,
+        "seat1_margin": 94660.0
+      },
+      "submitted": {
+        "seat0_margin": 77817.0,
+        "seat1_margin": 77817.0
+      }
+    },
+    {
+      "rank": 68,
+      "episode_id": "115786231",
+      "new_seed": 9534829,
+      "candidate": {
+        "seat0_margin": 113828.0,
+        "seat1_margin": 113828.0
+      },
+      "submitted": {
+        "seat0_margin": 93635.0,
+        "seat1_margin": 107188.0
+      }
+    },
+    {
+      "rank": 69,
+      "episode_id": "115791610",
+      "new_seed": 9534900,
+      "candidate": {
+        "seat0_margin": 65912.0,
+        "seat1_margin": 68727.0
+      },
+      "submitted": {
+        "seat0_margin": 3574.0,
+        "seat1_margin": 3574.0
+      }
+    },
+    {
+      "rank": 70,
+      "episode_id": "115791438",
+      "new_seed": 9534971,
+      "candidate": {
+        "seat0_margin": 16770.0,
+        "seat1_margin": 16770.0
+      },
+      "submitted": {
+        "seat0_margin": -11802.0,
+        "seat1_margin": -2048.0
+      }
+    },
+    {
+      "rank": 71,
+      "episode_id": "115787658",
+      "new_seed": 9535042,
+      "candidate": {
+        "seat0_margin": 53549.0,
+        "seat1_margin": 49057.0
+      },
+      "submitted": {
+        "seat0_margin": 31595.0,
+        "seat1_margin": 31595.0
+      }
+    },
+    {
+      "rank": 72,
+      "episode_id": "115788413",
+      "new_seed": 9535113,
+      "candidate": {
+        "seat0_margin": 18116.0,
+        "seat1_margin": 18116.0
+      },
+      "submitted": {
+        "seat0_margin": -4394.0,
+        "seat1_margin": -4394.0
+      }
+    },
+    {
+      "rank": 73,
+      "episode_id": "115791333",
+      "new_seed": 9535184,
+      "candidate": {
+        "seat0_margin": 65246.0,
+        "seat1_margin": 65246.0
+      },
+      "submitted": {
+        "seat0_margin": 34570.0,
+        "seat1_margin": 34570.0
+      }
+    },
+    {
+      "rank": 74,
+      "episode_id": "115790836",
+      "new_seed": 9535255,
+      "candidate": {
+        "seat0_margin": 80196.0,
+        "seat1_margin": 80196.0
+      },
+      "submitted": {
+        "seat0_margin": 45110.0,
+        "seat1_margin": 45110.0
+      }
+    },
+    {
+      "rank": 75,
+      "episode_id": "115792891",
+      "new_seed": 9535326,
+      "candidate": {
+        "seat0_margin": 29884.0,
+        "seat1_margin": 29884.0
+      },
+      "submitted": {
+        "seat0_margin": 62681.0,
+        "seat1_margin": 62681.0
+      }
+    },
+    {
+      "rank": 76,
+      "episode_id": "115792891",
+      "new_seed": 9535397,
+      "candidate": {
+        "seat0_margin": 32760.0,
+        "seat1_margin": 32760.0
+      },
+      "submitted": {
+        "seat0_margin": -2343.0,
+        "seat1_margin": -2343.0
+      }
+    },
+    {
+      "rank": 77,
+      "episode_id": "115790939",
+      "new_seed": 9535468,
+      "candidate": {
+        "seat0_margin": 49114.0,
+        "seat1_margin": 49114.0
+      },
+      "submitted": {
+        "seat0_margin": 16709.0,
+        "seat1_margin": 16709.0
+      }
+    },
+    {
+      "rank": 78,
+      "episode_id": "115791348",
+      "new_seed": 9535539,
+      "candidate": {
+        "seat0_margin": 10691.0,
+        "seat1_margin": 10691.0
+      },
+      "submitted": {
+        "seat0_margin": -5872.0,
+        "seat1_margin": -5872.0
+      }
+    },
+    {
+      "rank": 79,
+      "episode_id": "115790796",
+      "new_seed": 9535610,
+      "candidate": {
+        "seat0_margin": 77550.0,
+        "seat1_margin": 77550.0
+      },
+      "submitted": {
+        "seat0_margin": 29501.0,
+        "seat1_margin": 29501.0
+      }
+    },
+    {
+      "rank": 80,
+      "episode_id": "115791604",
+      "new_seed": 9535681,
+      "candidate": {
+        "seat0_margin": 101371.0,
+        "seat1_margin": 97388.0
+      },
+      "submitted": {
+        "seat0_margin": 20060.0,
+        "seat1_margin": 20060.0
+      }
+    },
+    {
+      "rank": 81,
+      "episode_id": "115791232",
+      "new_seed": 9535752,
+      "candidate": {
+        "seat0_margin": -2501.0,
+        "seat1_margin": -4925.0
+      },
+      "submitted": {
+        "seat0_margin": 47995.0,
+        "seat1_margin": 54911.0
+      }
+    },
+    {
+      "rank": 82,
+      "episode_id": "115788474",
+      "new_seed": 9535823,
+      "candidate": {
+        "seat0_margin": 21571.0,
+        "seat1_margin": 21571.0
+      },
+      "submitted": {
+        "seat0_margin": 13874.0,
+        "seat1_margin": 13874.0
+      }
+    },
+    {
+      "rank": 83,
+      "episode_id": "115792430",
+      "new_seed": 9535894,
+      "candidate": {
+        "seat0_margin": 66736.0,
+        "seat1_margin": 66736.0
+      },
+      "submitted": {
+        "seat0_margin": 99831.0,
+        "seat1_margin": 99802.0
+      }
+    },
+    {
+      "rank": 84,
+      "episode_id": "115789104",
+      "new_seed": 9535965,
+      "candidate": {
+        "seat0_margin": 54956.0,
+        "seat1_margin": 54956.0
+      },
+      "submitted": {
+        "seat0_margin": 21528.0,
+        "seat1_margin": 21528.0
+      }
+    },
+    {
+      "rank": 85,
+      "episode_id": "115787742",
+      "new_seed": 9536036,
+      "candidate": {
+        "seat0_margin": -13647.0,
+        "seat1_margin": -13647.0
+      },
+      "submitted": {
+        "seat0_margin": 3173.0,
+        "seat1_margin": 3173.0
+      }
+    },
+    {
+      "rank": 86,
+      "episode_id": "115789106",
+      "new_seed": 9536107,
+      "candidate": {
+        "seat0_margin": 36912.0,
+        "seat1_margin": 39381.0
+      },
+      "submitted": {
+        "seat0_margin": 29923.0,
+        "seat1_margin": 32747.0
+      }
+    },
+    {
+      "rank": 87,
+      "episode_id": "115790628",
+      "new_seed": 9536178,
+      "candidate": {
+        "seat0_margin": 33468.0,
+        "seat1_margin": 33468.0
+      },
+      "submitted": {
+        "seat0_margin": 7635.0,
+        "seat1_margin": 9089.0
+      }
+    },
+    {
+      "rank": 88,
+      "episode_id": "115791543",
+      "new_seed": 9536249,
+      "candidate": {
+        "seat0_margin": 61634.0,
+        "seat1_margin": 61634.0
+      },
+      "submitted": {
+        "seat0_margin": 33885.0,
+        "seat1_margin": 33885.0
+      }
+    },
+    {
+      "rank": 89,
+      "episode_id": "115793116",
+      "new_seed": 9536320,
+      "candidate": {
+        "seat0_margin": 7501.0,
+        "seat1_margin": 7501.0
+      },
+      "submitted": {
+        "seat0_margin": 2073.0,
+        "seat1_margin": 2073.0
+      }
+    },
+    {
+      "rank": 90,
+      "episode_id": "115788399",
+      "new_seed": 9536391,
+      "candidate": {
+        "seat0_margin": 64571.0,
+        "seat1_margin": 64571.0
+      },
+      "submitted": {
+        "seat0_margin": 66646.0,
+        "seat1_margin": 66646.0
+      }
+    },
+    {
+      "rank": 91,
+      "episode_id": "115791579",
+      "new_seed": 9536462,
+      "candidate": {
+        "seat0_margin": 159.0,
+        "seat1_margin": 159.0
+      },
+      "submitted": {
+        "seat0_margin": -4079.0,
+        "seat1_margin": -4079.0
+      }
+    },
+    {
+      "rank": 92,
+      "episode_id": "115788453",
+      "new_seed": 9536533,
+      "candidate": {
+        "seat0_margin": 17500.0,
+        "seat1_margin": 17500.0
+      },
+      "submitted": {
+        "seat0_margin": 10105.0,
+        "seat1_margin": 10105.0
+      }
+    },
+    {
+      "rank": 93,
+      "episode_id": "115792430",
+      "new_seed": 9536604,
+      "candidate": {
+        "seat0_margin": 96800.0,
+        "seat1_margin": 96800.0
+      },
+      "submitted": {
+        "seat0_margin": 119638.0,
+        "seat1_margin": 119638.0
+      }
+    },
+    {
+      "rank": 94,
+      "episode_id": "115789975",
+      "new_seed": 9536675,
+      "candidate": {
+        "seat0_margin": 7192.0,
+        "seat1_margin": 7192.0
+      },
+      "submitted": {
+        "seat0_margin": 8875.0,
+        "seat1_margin": 8875.0
+      }
+    },
+    {
+      "rank": 95,
+      "episode_id": "115791356",
+      "new_seed": 9536746,
+      "candidate": {
+        "seat0_margin": 10156.0,
+        "seat1_margin": 9063.0
+      },
+      "submitted": {
+        "seat0_margin": 15135.0,
+        "seat1_margin": 15135.0
+      }
+    },
+    {
+      "rank": 96,
+      "episode_id": "115793084",
+      "new_seed": 9536817,
+      "candidate": {
+        "seat0_margin": 21519.0,
+        "seat1_margin": 18268.0
+      },
+      "submitted": {
+        "seat0_margin": 195676.0,
+        "seat1_margin": 195676.0
+      }
+    },
+    {
+      "rank": 97,
+      "episode_id": "115790735",
+      "new_seed": 9536888,
+      "candidate": {
+        "seat0_margin": 2087.0,
+        "seat1_margin": 2087.0
+      },
+      "submitted": {
+        "seat0_margin": -11722.0,
+        "seat1_margin": -11722.0
+      }
+    },
+    {
+      "rank": 98,
+      "episode_id": "115789946",
+      "new_seed": 9536959,
+      "candidate": {
+        "seat0_margin": 12350.0,
+        "seat1_margin": 12350.0
+      },
+      "submitted": {
+        "seat0_margin": 37704.0,
+        "seat1_margin": 37704.0
+      }
+    },
+    {
+      "rank": 99,
+      "episode_id": "115788501",
+      "new_seed": 9537030,
+      "candidate": {
+        "seat0_margin": 50158.0,
+        "seat1_margin": 50158.0
+      },
+      "submitted": {
+        "seat0_margin": 600.0,
+        "seat1_margin": 698.0
+      }
+    },
+    {
+      "rank": 100,
+      "episode_id": "115788448",
+      "new_seed": 9537101,
+      "candidate": {
+        "seat0_margin": 22992.0,
+        "seat1_margin": 22992.0
+      },
+      "submitted": {
+        "seat0_margin": 1447.0,
+        "seat1_margin": 1447.0
+      }
+    }
+  ]
+}

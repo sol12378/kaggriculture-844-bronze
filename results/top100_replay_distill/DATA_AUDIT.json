@@ -1,0 +1,13 @@
+{
+  "schema": "top100-dataset-audit/v1",
+  "targets": 100,
+  "score_matches_at_fetch": 74,
+  "selection_count": 800,
+  "unique_replays": 645,
+  "hash_verified": 645,
+  "development_unique": 399,
+  "validation_unique": 246,
+  "development_trajectories": 464,
+  "validation_trajectories": 336,
+  "leakage": false
+}

@@ -1,0 +1,11 @@
+{
+  "competition": "kaggriculture",
+  "candidate": "rank95_front97",
+  "archive": "submission.tar.gz",
+  "archive_sha256": "8324ece0db04da2b7948e70320b167bcdf44497ce3189669e3b4ef4e03a1e2f1",
+  "submission_id": 56720329,
+  "submitted_at_jst": "2026-10-01 07:34:56 +09:00",
+  "cli_result": "Successfully submitted to Kaggriculture",
+  "list_status_at_verification": "COMPLETE",
+  "public_score_at_verification": 1057.9
+}

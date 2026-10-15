@@ -1,0 +1,58 @@
+{
+  "engine": "kaggle-environments 1.32.7",
+  "loader": "file paths in env.run",
+  "search_seed_overlap": false,
+  "summary": [
+    {
+      "case": "candidate_vs_parent",
+      "games": 48,
+      "seed_pairs": 24,
+      "wins": 31,
+      "losses": 17,
+      "ties": 0,
+      "halfwin": 0.6458333333333334,
+      "mean_margin": 9.791666666666666
+    },
+    {
+      "case": "candidate_vs_v4",
+      "games": 48,
+      "seed_pairs": 24,
+      "wins": 35,
+      "losses": 13,
+      "ties": 0,
+      "halfwin": 0.7291666666666666,
+      "mean_margin": 368.375
+    },
+    {
+      "case": "parent_vs_v4_control",
+      "games": 48,
+      "seed_pairs": 24,
+      "wins": 35,
+      "losses": 13,
+      "ties": 0,
+      "halfwin": 0.7291666666666666,
+      "mean_margin": 376.1666666666667
+    },
+    {
+      "case": "candidate_vs_guard",
+      "games": 16,
+      "seed_pairs": 8,
+      "wins": 16,
+      "losses": 0,
+      "ties": 0,
+      "halfwin": 1.0,
+      "mean_margin": 37961.75
+    },
+    {
+      "case": "candidate_vs_kaito",
+      "games": 16,
+      "seed_pairs": 8,
+      "wins": 16,
+      "losses": 0,
+      "ties": 0,
+      "halfwin": 1.0,
+      "mean_margin": 30301.0
+    }
+  ],
+  "submission_performed": false
+}

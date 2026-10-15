@@ -1,0 +1,21 @@
+{
+  "candidate": "rank95_front97",
+  "archive": "submission.tar.gz",
+  "archive_bytes": 43060,
+  "archive_sha256": "8324ece0db04da2b7948e70320b167bcdf44497ce3189669e3b4ef4e03a1e2f1",
+  "members": {
+    "main.py": {
+      "bytes": 77970,
+      "sha256": "4b4a4c4b63957b8c095f789a045505c7a238999d315d7f518237e5a7b9f34db6"
+    },
+    "LICENSE": {
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    "NOTICE": {
+      "bytes": 434,
+      "sha256": "789583effe6a64fc74ed2b834c336b8ba5c4dfdebe7e53fc443912eeb67cd208"
+    }
+  },
+  "submitted": false
+}

@@ -1,0 +1,444 @@
+{
+  "engine": "official kaggle_environments 1.32.7 path loader; both seats",
+  "seeds": [
+    36330001,
+    36330068,
+    36330135,
+    36330202,
+    36330269,
+    36330336,
+    36330403,
+    36330470,
+    36330537,
+    36330604,
+    36330671,
+    36330738,
+    36330805,
+    36330872,
+    36330939,
+    36331006,
+    36331073,
+    36331140,
+    36331207,
+    36331274,
+    36331341,
+    36331408,
+    36331475,
+    36331542
+  ],
+  "matches": 2160,
+  "errors": 0,
+  "distinct_peers": [
+    "rank95_front97",
+    "environment_meta_front_97",
+    "rank32_plus8_front97",
+    "rank32_plus8",
+    "rank88_c_full",
+    "rank97_plus4"
+  ],
+  "excluded_near_duplicates": [
+    "environment_meta_v2_front97",
+    "rank95_basic"
+  ],
+  "near_duplicate_duel": {
+    "wins": 3,
+    "losses": 3,
+    "ties": 42,
+    "halfwin_rate": 0.5,
+    "mean_margin": 0.0
+  },
+  "rank95_ablation_duel": {
+    "wins": 48,
+    "losses": 0,
+    "ties": 0,
+    "halfwin_rate": 1.0,
+    "mean_margin": 130.75
+  },
+  "ranking": [
+    {
+      "agent": "rank95_front97",
+      "peer_halfwin_rate": 0.6,
+      "peer_wins": 144,
+      "peer_ties": 0,
+      "peer_games": 240,
+      "mean_margin": 2087.72,
+      "pair_wins": 5,
+      "pair_losses": 0,
+      "worst_duel_halfwin": 0.5417,
+      "duels": {
+        "environment_meta_front_97": {
+          "wins": 26,
+          "losses": 22,
+          "ties": 0,
+          "halfwin_rate": 0.5417,
+          "mean_margin": 2066.35
+        },
+        "rank32_plus8_front97": {
+          "wins": 26,
+          "losses": 22,
+          "ties": 0,
+          "halfwin_rate": 0.5417,
+          "mean_margin": 1183.73
+        },
+        "rank32_plus8": {
+          "wins": 26,
+          "losses": 22,
+          "ties": 0,
+          "halfwin_rate": 0.5417,
+          "mean_margin": 924.4
+        },
+        "rank88_c_full": {
+          "wins": 40,
+          "losses": 8,
+          "ties": 0,
+          "halfwin_rate": 0.8333,
+          "mean_margin": 4532.27
+        },
+        "rank97_plus4": {
+          "wins": 26,
+          "losses": 22,
+          "ties": 0,
+          "halfwin_rate": 0.5417,
+          "mean_margin": 1731.85
+        }
+      },
+      "controls": {
+        "submitted": {
+          "wins": 30,
+          "losses": 18,
+          "ties": 0,
+          "halfwin_rate": 0.625,
+          "mean_margin": 5683.02
+        },
+        "second_meta": {
+          "wins": 30,
+          "losses": 18,
+          "ties": 0,
+          "halfwin_rate": 0.625,
+          "mean_margin": 5844.12
+        }
+      }
+    },
+    {
+      "agent": "environment_meta_front_97",
+      "peer_halfwin_rate": 0.5708,
+      "peer_wins": 137,
+      "peer_ties": 0,
+      "peer_games": 240,
+      "mean_margin": -1540.27,
+      "pair_wins": 4,
+      "pair_losses": 1,
+      "worst_duel_halfwin": 0.4583,
+      "duels": {
+        "rank95_front97": {
+          "wins": 22,
+          "losses": 26,
+          "ties": 0,
+          "halfwin_rate": 0.4583,
+          "mean_margin": -2066.35
+        },
+        "rank32_plus8_front97": {
+          "wins": 27,
+          "losses": 21,
+          "ties": 0,
+          "halfwin_rate": 0.5625,
+          "mean_margin": -2750.69
+        },
+        "rank32_plus8": {
+          "wins": 27,
+          "losses": 21,
+          "ties": 0,
+          "halfwin_rate": 0.5625,
+          "mean_margin": -2738.04
+        },
+        "rank88_c_full": {
+          "wins": 28,
+          "losses": 20,
+          "ties": 0,
+          "halfwin_rate": 0.5833,
+          "mean_margin": -284.56
+        },
+        "rank97_plus4": {
+          "wins": 33,
+          "losses": 15,
+          "ties": 0,
+          "halfwin_rate": 0.6875,
+          "mean_margin": 138.31
+        }
+      },
+      "controls": {
+        "submitted": {
+          "wins": 42,
+          "losses": 6,
+          "ties": 0,
+          "halfwin_rate": 0.875,
+          "mean_margin": 9960.56
+        },
+        "second_meta": {
+          "wins": 42,
+          "losses": 6,
+          "ties": 0,
+          "halfwin_rate": 0.875,
+          "mean_margin": 10141.81
+        }
+      }
+    },
+    {
+      "agent": "rank32_plus8_front97",
+      "peer_halfwin_rate": 0.5292,
+      "peer_wins": 127,
+      "peer_ties": 0,
+      "peer_games": 240,
+      "mean_margin": 791.19,
+      "pair_wins": 1,
+      "pair_losses": 3,
+      "worst_duel_halfwin": 0.4375,
+      "duels": {
+        "rank95_front97": {
+          "wins": 22,
+          "losses": 26,
+          "ties": 0,
+          "halfwin_rate": 0.4583,
+          "mean_margin": -1183.73
+        },
+        "environment_meta_front_97": {
+          "wins": 21,
+          "losses": 27,
+          "ties": 0,
+          "halfwin_rate": 0.4375,
+          "mean_margin": 2750.69
+        },
+        "rank32_plus8": {
+          "wins": 39,
+          "losses": 9,
+          "ties": 0,
+          "halfwin_rate": 0.8125,
+          "mean_margin": 61.71
+        },
+        "rank88_c_full": {
+          "wins": 24,
+          "losses": 24,
+          "ties": 0,
+          "halfwin_rate": 0.5,
+          "mean_margin": 74.92
+        },
+        "rank97_plus4": {
+          "wins": 21,
+          "losses": 27,
+          "ties": 0,
+          "halfwin_rate": 0.4375,
+          "mean_margin": 2252.35
+        }
+      },
+      "controls": {
+        "submitted": {
+          "wins": 40,
+          "losses": 8,
+          "ties": 0,
+          "halfwin_rate": 0.8333,
+          "mean_margin": 9780.75
+        },
+        "second_meta": {
+          "wins": 40,
+          "losses": 8,
+          "ties": 0,
+          "halfwin_rate": 0.8333,
+          "mean_margin": 9979.04
+        }
+      }
+    },
+    {
+      "agent": "rank97_plus4",
+      "peer_halfwin_rate": 0.5042,
+      "peer_wins": 121,
+      "peer_ties": 0,
+      "peer_games": 240,
+      "mean_margin": -1193.09,
+      "pair_wins": 3,
+      "pair_losses": 2,
+      "worst_duel_halfwin": 0.3125,
+      "duels": {
+        "rank95_front97": {
+          "wins": 22,
+          "losses": 26,
+          "ties": 0,
+          "halfwin_rate": 0.4583,
+          "mean_margin": -1731.85
+        },
+        "environment_meta_front_97": {
+          "wins": 15,
+          "losses": 33,
+          "ties": 0,
+          "halfwin_rate": 0.3125,
+          "mean_margin": -138.31
+        },
+        "rank32_plus8_front97": {
+          "wins": 27,
+          "losses": 21,
+          "ties": 0,
+          "halfwin_rate": 0.5625,
+          "mean_margin": -2252.35
+        },
+        "rank32_plus8": {
+          "wins": 27,
+          "losses": 21,
+          "ties": 0,
+          "halfwin_rate": 0.5625,
+          "mean_margin": -2330.38
+        },
+        "rank88_c_full": {
+          "wins": 30,
+          "losses": 18,
+          "ties": 0,
+          "halfwin_rate": 0.625,
+          "mean_margin": 487.44
+        }
+      },
+      "controls": {
+        "submitted": {
+          "wins": 40,
+          "losses": 8,
+          "ties": 0,
+          "halfwin_rate": 0.8333,
+          "mean_margin": 8354.48
+        },
+        "second_meta": {
+          "wins": 40,
+          "losses": 8,
+          "ties": 0,
+          "halfwin_rate": 0.8333,
+          "mean_margin": 8462.6
+        }
+      }
+    },
+    {
+      "agent": "rank32_plus8",
+      "peer_halfwin_rate": 0.4125,
+      "peer_wins": 99,
+      "peer_ties": 0,
+      "peer_games": 240,
+      "mean_margin": 912.16,
+      "pair_wins": 1,
+      "pair_losses": 4,
+      "worst_duel_halfwin": 0.1875,
+      "duels": {
+        "rank95_front97": {
+          "wins": 22,
+          "losses": 26,
+          "ties": 0,
+          "halfwin_rate": 0.4583,
+          "mean_margin": -924.4
+        },
+        "environment_meta_front_97": {
+          "wins": 21,
+          "losses": 27,
+          "ties": 0,
+          "halfwin_rate": 0.4375,
+          "mean_margin": 2738.04
+        },
+        "rank32_plus8_front97": {
+          "wins": 9,
+          "losses": 39,
+          "ties": 0,
+          "halfwin_rate": 0.1875,
+          "mean_margin": -61.71
+        },
+        "rank88_c_full": {
+          "wins": 26,
+          "losses": 22,
+          "ties": 0,
+          "halfwin_rate": 0.5417,
+          "mean_margin": 478.5
+        },
+        "rank97_plus4": {
+          "wins": 21,
+          "losses": 27,
+          "ties": 0,
+          "halfwin_rate": 0.4375,
+          "mean_margin": 2330.38
+        }
+      },
+      "controls": {
+        "submitted": {
+          "wins": 40,
+          "losses": 8,
+          "ties": 0,
+          "halfwin_rate": 0.8333,
+          "mean_margin": 10252.42
+        },
+        "second_meta": {
+          "wins": 42,
+          "losses": 6,
+          "ties": 0,
+          "halfwin_rate": 0.875,
+          "mean_margin": 10442.33
+        }
+      }
+    },
+    {
+      "agent": "rank88_c_full",
+      "peer_halfwin_rate": 0.3833,
+      "peer_wins": 92,
+      "peer_ties": 0,
+      "peer_games": 240,
+      "mean_margin": -1057.71,
+      "pair_wins": 0,
+      "pair_losses": 4,
+      "worst_duel_halfwin": 0.1667,
+      "duels": {
+        "rank95_front97": {
+          "wins": 8,
+          "losses": 40,
+          "ties": 0,
+          "halfwin_rate": 0.1667,
+          "mean_margin": -4532.27
+        },
+        "environment_meta_front_97": {
+          "wins": 20,
+          "losses": 28,
+          "ties": 0,
+          "halfwin_rate": 0.4167,
+          "mean_margin": 284.56
+        },
+        "rank32_plus8_front97": {
+          "wins": 24,
+          "losses": 24,
+          "ties": 0,
+          "halfwin_rate": 0.5,
+          "mean_margin": -74.92
+        },
+        "rank32_plus8": {
+          "wins": 22,
+          "losses": 26,
+          "ties": 0,
+          "halfwin_rate": 0.4583,
+          "mean_margin": -478.5
+        },
+        "rank97_plus4": {
+          "wins": 18,
+          "losses": 30,
+          "ties": 0,
+          "halfwin_rate": 0.375,
+          "mean_margin": -487.44
+        }
+      },
+      "controls": {
+        "submitted": {
+          "wins": 36,
+          "losses": 12,
+          "ties": 0,
+          "halfwin_rate": 0.75,
+          "mean_margin": 6810.79
+        },
+        "second_meta": {
+          "wins": 36,
+          "losses": 12,
+          "ties": 0,
+          "halfwin_rate": 0.75,
+          "mean_margin": 7107.67
+        }
+      }
+    }
+  ],
+  "winner": "rank95_front97"
+}

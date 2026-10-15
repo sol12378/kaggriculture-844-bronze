@@ -1,0 +1,8 @@
+kaggriculture-401-silver: Kaggriculture 参戦記録 (Kaggriculture competition write-up)
+Copyright 2026 sol12378
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+This repository contains work derived from public Apache-2.0 Kaggle notebooks.
+Upstream attributions are kept in each agents/*/NOTICE and in the header of each
+agents/*/main.py. See docs/THIRD_PARTY.md for the list of sources.

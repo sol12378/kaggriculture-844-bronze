@@ -1,0 +1,25 @@
+{
+  "candidate": "rank95_front97",
+  "archive_sha256": "8324ece0db04da2b7948e70320b167bcdf44497ce3189669e3b4ef4e03a1e2f1",
+  "engine": "official kaggle_environments 1.32.7 path loader",
+  "rows": [
+    {
+      "seat": 0,
+      "seed": 25330001,
+      "status": "DONE",
+      "candidate_reward": 124330.0,
+      "baseline_reward": 124599.0,
+      "steps": 720,
+      "log_excerpt": ""
+    },
+    {
+      "seat": 1,
+      "seed": 25330002,
+      "status": "DONE",
+      "candidate_reward": 112942.0,
+      "baseline_reward": 96845.0,
+      "steps": 720,
+      "log_excerpt": ""
+    }
+  ]
+}

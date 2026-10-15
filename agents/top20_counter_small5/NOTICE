@@ -1,0 +1,11 @@
+Kaggriculture agent: Market-Smart Farming
+Notebook author: tetsu2131 / tetsutani
+Public source: https://www.kaggle.com/code/tetsutani/market-smart-farming-kaggriculture
+Notebook license: Apache-2.0. This is its exact output main.py and
+submission.tar.gz, without modification. The source file retains the
+author's upstream attribution comments (including Ahmed Berat Ozer,
+Rayk Kretzschmar, aurax7, yhay81, and other contributors).
+No hosted submission was made in this task.
+Original replay-guided local action repair appended by this project.
+Original equal-opening wheat quantity guard appended by this project.
+Original small-sale slot repair appended by this project.

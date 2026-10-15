@@ -1,0 +1,14 @@
+{
+  "schema": "top20-distilled-kaggle-submission-receipt/v1",
+  "competition": "kaggriculture",
+  "submission_id": "56693932",
+  "submitted_at_utc": "2026-09-30T01:51:15.787Z",
+  "submission_command_count_for_this_request": 1,
+  "archive_sha256": "5ce306d56ef87bfc705ea27ffc760c95ad84577dd47620792e0b51803da369d0",
+  "cli_upload_result": "Successfully submitted to Kaggriculture",
+  "readback_status": "COMPLETE",
+  "readback_public_score": 600.0,
+  "score_note": "Initial hosted score. Later readback at approximately 2026-09-30 05:45 UTC was 138.0 after the path-loader defect caused all-PASS episodes.",
+  "hosted_execution_diagnosis": "BROKEN_ENTRYPOINT_LAST_CALLABLE_SELECTED_HELPER",
+  "correction_submitted": false
+}

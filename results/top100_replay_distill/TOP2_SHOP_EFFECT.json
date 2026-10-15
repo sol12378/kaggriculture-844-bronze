@@ -1,0 +1,373 @@
+{
+  "shop|SMOOTHIE_SHOP": {
+    "games": 70,
+    "rank32_extra_wins": -9,
+    "rank32_mean_margin_gain": 802,
+    "first_family_extra_wins": -9,
+    "second_family_extra_wins": 0
+  },
+  "shop_opponent|SMOOTHIE_SHOP|rank95_front97": {
+    "games": 14,
+    "rank32_extra_wins": 2,
+    "rank32_mean_margin_gain": 5076,
+    "first_family_extra_wins": 0,
+    "second_family_extra_wins": 2
+  },
+  "opponent|rank95_front97": {
+    "games": 112,
+    "rank32_extra_wins": -2,
+    "rank32_mean_margin_gain": 191,
+    "first_family_extra_wins": 0,
+    "second_family_extra_wins": -2
+  },
+  "shop|PET_CAFE": {
+    "games": 80,
+    "rank32_extra_wins": -6,
+    "rank32_mean_margin_gain": -1508,
+    "first_family_extra_wins": -2,
+    "second_family_extra_wins": -4
+  },
+  "shop_opponent|PET_CAFE|rank95_front97": {
+    "games": 16,
+    "rank32_extra_wins": 0,
+    "rank32_mean_margin_gain": -2289,
+    "first_family_extra_wins": 4,
+    "second_family_extra_wins": -4
+  },
+  "shop|FARMERS_MARKET": {
+    "games": 50,
+    "rank32_extra_wins": 12,
+    "rank32_mean_margin_gain": 8833,
+    "first_family_extra_wins": 6,
+    "second_family_extra_wins": 6
+  },
+  "shop_opponent|FARMERS_MARKET|rank95_front97": {
+    "games": 10,
+    "rank32_extra_wins": 0,
+    "rank32_mean_margin_gain": 6558,
+    "first_family_extra_wins": 0,
+    "second_family_extra_wins": 0
+  },
+  "shop|ICE_CREAM_SHOP": {
+    "games": 70,
+    "rank32_extra_wins": -14,
+    "rank32_mean_margin_gain": -2845,
+    "first_family_extra_wins": -10,
+    "second_family_extra_wins": -4
+  },
+  "shop_opponent|ICE_CREAM_SHOP|rank95_front97": {
+    "games": 14,
+    "rank32_extra_wins": -4,
+    "rank32_mean_margin_gain": -7712,
+    "first_family_extra_wins": -4,
+    "second_family_extra_wins": 0
+  },
+  "shop|YARN_STORE": {
+    "games": 100,
+    "rank32_extra_wins": -16,
+    "rank32_mean_margin_gain": -300,
+    "first_family_extra_wins": -8,
+    "second_family_extra_wins": -8
+  },
+  "shop_opponent|YARN_STORE|rank95_front97": {
+    "games": 20,
+    "rank32_extra_wins": 0,
+    "rank32_mean_margin_gain": 466,
+    "first_family_extra_wins": 0,
+    "second_family_extra_wins": 0
+  },
+  "shop|BAKERY": {
+    "games": 60,
+    "rank32_extra_wins": -2,
+    "rank32_mean_margin_gain": 1489,
+    "first_family_extra_wins": 1,
+    "second_family_extra_wins": -3
+  },
+  "shop_opponent|BAKERY|rank95_front97": {
+    "games": 12,
+    "rank32_extra_wins": 0,
+    "rank32_mean_margin_gain": -1967,
+    "first_family_extra_wins": 0,
+    "second_family_extra_wins": 0
+  },
+  "shop|PIZZA_SHOP": {
+    "games": 70,
+    "rank32_extra_wins": 21,
+    "rank32_mean_margin_gain": 8055,
+    "first_family_extra_wins": 6,
+    "second_family_extra_wins": 15
+  },
+  "shop_opponent|PIZZA_SHOP|rank95_front97": {
+    "games": 14,
+    "rank32_extra_wins": 4,
+    "rank32_mean_margin_gain": 14288,
+    "first_family_extra_wins": 2,
+    "second_family_extra_wins": 2
+  },
+  "shop|BRUNCH_SPOT": {
+    "games": 60,
+    "rank32_extra_wins": -8,
+    "rank32_mean_margin_gain": -6287,
+    "first_family_extra_wins": -4,
+    "second_family_extra_wins": -4
+  },
+  "shop_opponent|BRUNCH_SPOT|rank95_front97": {
+    "games": 12,
+    "rank32_extra_wins": -4,
+    "rank32_mean_margin_gain": -13030,
+    "first_family_extra_wins": -2,
+    "second_family_extra_wins": -2
+  },
+  "shop_opponent|SMOOTHIE_SHOP|rank88_c_full": {
+    "games": 14,
+    "rank32_extra_wins": 0,
+    "rank32_mean_margin_gain": -3403,
+    "first_family_extra_wins": 2,
+    "second_family_extra_wins": -2
+  },
+  "opponent|rank88_c_full": {
+    "games": 112,
+    "rank32_extra_wins": -2,
+    "rank32_mean_margin_gain": 644,
+    "first_family_extra_wins": -4,
+    "second_family_extra_wins": 2
+  },
+  "shop_opponent|PET_CAFE|rank88_c_full": {
+    "games": 16,
+    "rank32_extra_wins": -4,
+    "rank32_mean_margin_gain": -2181,
+    "first_family_extra_wins": -4,
+    "second_family_extra_wins": 0
+  },
+  "shop_opponent|FARMERS_MARKET|rank88_c_full": {
+    "games": 10,
+    "rank32_extra_wins": 2,
+    "rank32_mean_margin_gain": 11089,
+    "first_family_extra_wins": 2,
+    "second_family_extra_wins": 0
+  },
+  "shop_opponent|ICE_CREAM_SHOP|rank88_c_full": {
+    "games": 14,
+    "rank32_extra_wins": -4,
+    "rank32_mean_margin_gain": -6314,
+    "first_family_extra_wins": -4,
+    "second_family_extra_wins": 0
+  },
+  "shop_opponent|YARN_STORE|rank88_c_full": {
+    "games": 20,
+    "rank32_extra_wins": 0,
+    "rank32_mean_margin_gain": -2691,
+    "first_family_extra_wins": 0,
+    "second_family_extra_wins": 0
+  },
+  "shop_opponent|BAKERY|rank88_c_full": {
+    "games": 12,
+    "rank32_extra_wins": 0,
+    "rank32_mean_margin_gain": 2481,
+    "first_family_extra_wins": 0,
+    "second_family_extra_wins": 0
+  },
+  "shop_opponent|PIZZA_SHOP|rank88_c_full": {
+    "games": 14,
+    "rank32_extra_wins": 6,
+    "rank32_mean_margin_gain": 12384,
+    "first_family_extra_wins": 0,
+    "second_family_extra_wins": 6
+  },
+  "shop_opponent|BRUNCH_SPOT|rank88_c_full": {
+    "games": 12,
+    "rank32_extra_wins": -2,
+    "rank32_mean_margin_gain": -1430,
+    "first_family_extra_wins": 0,
+    "second_family_extra_wins": -2
+  },
+  "shop_opponent|SMOOTHIE_SHOP|rank97_plus4": {
+    "games": 14,
+    "rank32_extra_wins": -3,
+    "rank32_mean_margin_gain": -1062,
+    "first_family_extra_wins": -3,
+    "second_family_extra_wins": 0
+  },
+  "opponent|rank97_plus4": {
+    "games": 112,
+    "rank32_extra_wins": -22,
+    "rank32_mean_margin_gain": 2802,
+    "first_family_extra_wins": -12,
+    "second_family_extra_wins": -10
+  },
+  "shop_opponent|PET_CAFE|rank97_plus4": {
+    "games": 16,
+    "rank32_extra_wins": -4,
+    "rank32_mean_margin_gain": 358,
+    "first_family_extra_wins": -2,
+    "second_family_extra_wins": -2
+  },
+  "shop_opponent|FARMERS_MARKET|rank97_plus4": {
+    "games": 10,
+    "rank32_extra_wins": 2,
+    "rank32_mean_margin_gain": 15002,
+    "first_family_extra_wins": 0,
+    "second_family_extra_wins": 2
+  },
+  "shop_opponent|ICE_CREAM_SHOP|rank97_plus4": {
+    "games": 14,
+    "rank32_extra_wins": -6,
+    "rank32_mean_margin_gain": -318,
+    "first_family_extra_wins": -2,
+    "second_family_extra_wins": -4
+  },
+  "shop_opponent|YARN_STORE|rank97_plus4": {
+    "games": 20,
+    "rank32_extra_wins": -14,
+    "rank32_mean_margin_gain": -876,
+    "first_family_extra_wins": -8,
+    "second_family_extra_wins": -6
+  },
+  "shop_opponent|BAKERY|rank97_plus4": {
+    "games": 12,
+    "rank32_extra_wins": -2,
+    "rank32_mean_margin_gain": 9642,
+    "first_family_extra_wins": 1,
+    "second_family_extra_wins": -3
+  },
+  "shop_opponent|PIZZA_SHOP|rank97_plus4": {
+    "games": 14,
+    "rank32_extra_wins": 7,
+    "rank32_mean_margin_gain": 6536,
+    "first_family_extra_wins": 4,
+    "second_family_extra_wins": 3
+  },
+  "shop_opponent|BRUNCH_SPOT|rank97_plus4": {
+    "games": 12,
+    "rank32_extra_wins": -2,
+    "rank32_mean_margin_gain": -1020,
+    "first_family_extra_wins": -2,
+    "second_family_extra_wins": 0
+  },
+  "shop_opponent|SMOOTHIE_SHOP|submitted": {
+    "games": 14,
+    "rank32_extra_wins": -4,
+    "rank32_mean_margin_gain": 1563,
+    "first_family_extra_wins": -4,
+    "second_family_extra_wins": 0
+  },
+  "opponent|submitted": {
+    "games": 112,
+    "rank32_extra_wins": 3,
+    "rank32_mean_margin_gain": 59,
+    "first_family_extra_wins": -2,
+    "second_family_extra_wins": 5
+  },
+  "shop_opponent|PET_CAFE|submitted": {
+    "games": 16,
+    "rank32_extra_wins": 1,
+    "rank32_mean_margin_gain": -1776,
+    "first_family_extra_wins": 0,
+    "second_family_extra_wins": 1
+  },
+  "shop_opponent|FARMERS_MARKET|submitted": {
+    "games": 10,
+    "rank32_extra_wins": 4,
+    "rank32_mean_margin_gain": 5766,
+    "first_family_extra_wins": 2,
+    "second_family_extra_wins": 2
+  },
+  "shop_opponent|ICE_CREAM_SHOP|submitted": {
+    "games": 14,
+    "rank32_extra_wins": 0,
+    "rank32_mean_margin_gain": 95,
+    "first_family_extra_wins": 0,
+    "second_family_extra_wins": 0
+  },
+  "shop_opponent|YARN_STORE|submitted": {
+    "games": 20,
+    "rank32_extra_wins": 0,
+    "rank32_mean_margin_gain": 840,
+    "first_family_extra_wins": 0,
+    "second_family_extra_wins": 0
+  },
+  "shop_opponent|BAKERY|submitted": {
+    "games": 12,
+    "rank32_extra_wins": 0,
+    "rank32_mean_margin_gain": -1418,
+    "first_family_extra_wins": 0,
+    "second_family_extra_wins": 0
+  },
+  "shop_opponent|PIZZA_SHOP|submitted": {
+    "games": 14,
+    "rank32_extra_wins": 2,
+    "rank32_mean_margin_gain": 3557,
+    "first_family_extra_wins": 0,
+    "second_family_extra_wins": 2
+  },
+  "shop_opponent|BRUNCH_SPOT|submitted": {
+    "games": 12,
+    "rank32_extra_wins": 0,
+    "rank32_mean_margin_gain": -7954,
+    "first_family_extra_wins": 0,
+    "second_family_extra_wins": 0
+  },
+  "shop_opponent|SMOOTHIE_SHOP|second_meta": {
+    "games": 14,
+    "rank32_extra_wins": -4,
+    "rank32_mean_margin_gain": 1834,
+    "first_family_extra_wins": -4,
+    "second_family_extra_wins": 0
+  },
+  "opponent|second_meta": {
+    "games": 112,
+    "rank32_extra_wins": 1,
+    "rank32_mean_margin_gain": 89,
+    "first_family_extra_wins": -2,
+    "second_family_extra_wins": 3
+  },
+  "shop_opponent|PET_CAFE|second_meta": {
+    "games": 16,
+    "rank32_extra_wins": 1,
+    "rank32_mean_margin_gain": -1652,
+    "first_family_extra_wins": 0,
+    "second_family_extra_wins": 1
+  },
+  "shop_opponent|FARMERS_MARKET|second_meta": {
+    "games": 10,
+    "rank32_extra_wins": 4,
+    "rank32_mean_margin_gain": 5751,
+    "first_family_extra_wins": 2,
+    "second_family_extra_wins": 2
+  },
+  "shop_opponent|ICE_CREAM_SHOP|second_meta": {
+    "games": 14,
+    "rank32_extra_wins": 0,
+    "rank32_mean_margin_gain": 24,
+    "first_family_extra_wins": 0,
+    "second_family_extra_wins": 0
+  },
+  "shop_opponent|YARN_STORE|second_meta": {
+    "games": 20,
+    "rank32_extra_wins": -2,
+    "rank32_mean_margin_gain": 761,
+    "first_family_extra_wins": 0,
+    "second_family_extra_wins": -2
+  },
+  "shop_opponent|BAKERY|second_meta": {
+    "games": 12,
+    "rank32_extra_wins": 0,
+    "rank32_mean_margin_gain": -1292,
+    "first_family_extra_wins": 0,
+    "second_family_extra_wins": 0
+  },
+  "shop_opponent|PIZZA_SHOP|second_meta": {
+    "games": 14,
+    "rank32_extra_wins": 2,
+    "rank32_mean_margin_gain": 3512,
+    "first_family_extra_wins": 0,
+    "second_family_extra_wins": 2
+  },
+  "shop_opponent|BRUNCH_SPOT|second_meta": {
+    "games": 12,
+    "rank32_extra_wins": 0,
+    "rank32_mean_margin_gain": -8001,
+    "first_family_extra_wins": 0,
+    "second_family_extra_wins": 0
+  }
+}

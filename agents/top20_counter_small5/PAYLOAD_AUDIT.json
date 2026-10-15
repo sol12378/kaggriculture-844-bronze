@@ -1,0 +1,13 @@
+﻿{
+  "archive": "submission.tar.gz",
+  "archive_sha256": "170a7dbd489362738844efbeae04a24114f8a427437dd7788a94c070d8d2b36d",
+  "main_sha256": "f7f6a0c330c585a71c4854a34c02d922e20c68fa0006ff00ebe82d9528562220",
+  "archive_members": [
+    "main.py",
+    "LICENSE",
+    "NOTICE"
+  ],
+  "source_from_official_test": "candidate_market_small5/main.py",
+  "last_unique_callable": "submission_agent_market_small5",
+  "submission_performed": false
+}

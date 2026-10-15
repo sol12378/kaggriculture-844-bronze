@@ -1,0 +1,11 @@
+Kaggriculture public notebook agent
+Original author: Yaxon
+Source: https://www.kaggle.com/code/aurax7/kaggriculture-shop-router-reactive-v7
+Notebook version: 1
+Original notebook SHA-256: a1b9fef2e5b768df66e77d88e4d93aa5a4f269bb9ef8e58a6002189eef6bdadc
+Extracted main.py SHA-256: e221f4875daff8b03e8f0ec7c86bd3a2a72c0768b049d4c25064abd5301a532b
+The agent source was extracted without policy changes.
+
+Modification: ORTHO V4 mask32, 2026-09-24, sol12378 research.
+Only PASS farmer/worker commands on ready animal products may become HARVEST.
+Complete parent MARKET action is preserved. Parent bytes are embedded unchanged.

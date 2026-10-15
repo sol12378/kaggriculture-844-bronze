@@ -1,0 +1,5 @@
+# Keep submitted agent files byte-for-byte (main.py was submitted with CRLF line endings).
+# Without this, a global core.autocrlf=true would rewrite them on commit.
+agents/** -text
+kaggle/** -text
+*.tar.gz binary

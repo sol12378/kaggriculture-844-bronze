@@ -1,0 +1,14 @@
+﻿{
+  "competition": "kaggriculture",
+  "submission_id": "56702533",
+  "archive": "submission.tar.gz",
+  "archive_sha256": "170a7dbd489362738844efbeae04a24114f8a427437dd7788a94c070d8d2b36d",
+  "submitted_via": "Kaggle CLI: python -m kaggle competitions submit",
+  "submit_result": "Successfully submitted to Kaggriculture",
+  "submitted_at_kaggle": "2026-09-30 08:47:35.687000",
+  "readback_status": "SubmissionStatus.COMPLETE",
+  "readback_public_score": 752.9,
+  "public_games_at_readback": 2,
+  "score_is_provisional": true,
+  "submission_calls_this_turn": 1
+}

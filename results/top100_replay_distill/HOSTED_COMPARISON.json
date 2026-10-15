@@ -1,0 +1,266 @@
+{
+  "schema": "top100-hosted-economy-comparison/v1",
+  "note": "Unpaired public games; descriptive only; rank cohort matches may differ in seeds and opponents",
+  "groups": {
+    "submitted": {
+      "games": 57,
+      "snapshot_medians": {
+        "47": {
+          "cash": 92.0,
+          "hands": 3,
+          "shed_value": 210,
+          "tile:plant:STRAWBERRY": 0,
+          "tile:plant:WHEAT": 7,
+          "tile:animal:COW": 2,
+          "tile:animal:SHEEP": 2,
+          "tile:animal:GOOSE": 0
+        },
+        "119": {
+          "cash": 694.0,
+          "hands": 4,
+          "shed_value": 372,
+          "tile:plant:STRAWBERRY": 0,
+          "tile:plant:WHEAT": 7,
+          "tile:animal:COW": 4,
+          "tile:animal:SHEEP": 2,
+          "tile:animal:GOOSE": 0
+        },
+        "239": {
+          "cash": 2396.0,
+          "hands": 8,
+          "shed_value": 1073,
+          "tile:plant:STRAWBERRY": 20,
+          "tile:plant:WHEAT": 5,
+          "tile:animal:COW": 8,
+          "tile:animal:SHEEP": 5,
+          "tile:animal:GOOSE": 0
+        },
+        "479": {
+          "cash": 51188.0,
+          "hands": 11,
+          "shed_value": 776,
+          "tile:plant:STRAWBERRY": 33,
+          "tile:plant:WHEAT": 25,
+          "tile:animal:COW": 8,
+          "tile:animal:SHEEP": 6,
+          "tile:animal:GOOSE": 3
+        },
+        "695": {
+          "cash": 91462.0,
+          "hands": 11,
+          "shed_value": 2751,
+          "tile:plant:STRAWBERRY": 0,
+          "tile:plant:WHEAT": 10,
+          "tile:animal:COW": 8,
+          "tile:animal:SHEEP": 6,
+          "tile:animal:GOOSE": 3
+        },
+        "718": {
+          "cash": 101747.0,
+          "hands": 11,
+          "shed_value": 0,
+          "tile:plant:STRAWBERRY": 0,
+          "tile:plant:WHEAT": 0,
+          "tile:animal:COW": 8,
+          "tile:animal:SHEEP": 6,
+          "tile:animal:GOOSE": 3
+        }
+      }
+    },
+    "rank01_20": {
+      "games": 160,
+      "snapshot_medians": {
+        "47": {
+          "cash": 102.0,
+          "hands": 3.0,
+          "shed_value": 0.0,
+          "tile:plant:STRAWBERRY": 0.0,
+          "tile:plant:WHEAT": 12.0,
+          "tile:animal:COW": 2.0,
+          "tile:animal:SHEEP": 3.0,
+          "tile:animal:GOOSE": 0.0
+        },
+        "119": {
+          "cash": 28.5,
+          "hands": 6.0,
+          "shed_value": 0.0,
+          "tile:plant:STRAWBERRY": 6.5,
+          "tile:plant:WHEAT": 1.0,
+          "tile:animal:COW": 5.0,
+          "tile:animal:SHEEP": 3.0,
+          "tile:animal:GOOSE": 0.0
+        },
+        "239": {
+          "cash": 263.0,
+          "hands": 10.0,
+          "shed_value": 148.0,
+          "tile:plant:STRAWBERRY": 22.0,
+          "tile:plant:WHEAT": 20.0,
+          "tile:animal:COW": 7.0,
+          "tile:animal:SHEEP": 3.0,
+          "tile:animal:GOOSE": 6.0
+        },
+        "479": {
+          "cash": 54414.0,
+          "hands": 12.0,
+          "shed_value": 452.0,
+          "tile:plant:STRAWBERRY": 26.0,
+          "tile:plant:WHEAT": 20.5,
+          "tile:animal:COW": 8.0,
+          "tile:animal:SHEEP": 5.0,
+          "tile:animal:GOOSE": 7.0
+        },
+        "695": {
+          "cash": 95748.0,
+          "hands": 10.0,
+          "shed_value": 687.0,
+          "tile:plant:STRAWBERRY": 6.0,
+          "tile:plant:WHEAT": 13.0,
+          "tile:animal:COW": 7.0,
+          "tile:animal:SHEEP": 3.0,
+          "tile:animal:GOOSE": 7.0
+        },
+        "718": {
+          "cash": 104257.0,
+          "hands": 10.0,
+          "shed_value": 478.5,
+          "tile:plant:STRAWBERRY": 4.0,
+          "tile:plant:WHEAT": 0.0,
+          "tile:animal:COW": 7.0,
+          "tile:animal:SHEEP": 0.0,
+          "tile:animal:GOOSE": 7.0
+        }
+      }
+    },
+    "rank21_50": {
+      "games": 240,
+      "snapshot_medians": {
+        "47": {
+          "cash": 109.0,
+          "hands": 3.0,
+          "shed_value": 0.0,
+          "tile:plant:STRAWBERRY": 0.0,
+          "tile:plant:WHEAT": 12.0,
+          "tile:animal:COW": 2.0,
+          "tile:animal:SHEEP": 3.0,
+          "tile:animal:GOOSE": 0.0
+        },
+        "119": {
+          "cash": 65.0,
+          "hands": 6.0,
+          "shed_value": 0.0,
+          "tile:plant:STRAWBERRY": 8.0,
+          "tile:plant:WHEAT": 0.0,
+          "tile:animal:COW": 5.0,
+          "tile:animal:SHEEP": 3.0,
+          "tile:animal:GOOSE": 0.0
+        },
+        "239": {
+          "cash": 271.5,
+          "hands": 10.0,
+          "shed_value": 111.0,
+          "tile:plant:STRAWBERRY": 23.0,
+          "tile:plant:WHEAT": 20.0,
+          "tile:animal:COW": 7.0,
+          "tile:animal:SHEEP": 3.0,
+          "tile:animal:GOOSE": 6.0
+        },
+        "479": {
+          "cash": 56330.0,
+          "hands": 11.0,
+          "shed_value": 639.0,
+          "tile:plant:STRAWBERRY": 26.0,
+          "tile:plant:WHEAT": 19.0,
+          "tile:animal:COW": 7.0,
+          "tile:animal:SHEEP": 5.0,
+          "tile:animal:GOOSE": 7.0
+        },
+        "695": {
+          "cash": 98687.5,
+          "hands": 10.0,
+          "shed_value": 691.5,
+          "tile:plant:STRAWBERRY": 7.0,
+          "tile:plant:WHEAT": 13.0,
+          "tile:animal:COW": 6.0,
+          "tile:animal:SHEEP": 3.0,
+          "tile:animal:GOOSE": 7.0
+        },
+        "718": {
+          "cash": 106014.0,
+          "hands": 9.0,
+          "shed_value": 78.0,
+          "tile:plant:STRAWBERRY": 4.0,
+          "tile:plant:WHEAT": 0.0,
+          "tile:animal:COW": 6.0,
+          "tile:animal:SHEEP": 0.0,
+          "tile:animal:GOOSE": 6.0
+        }
+      }
+    },
+    "rank51_100": {
+      "games": 400,
+      "snapshot_medians": {
+        "47": {
+          "cash": 110.0,
+          "hands": 3.0,
+          "shed_value": 0.0,
+          "tile:plant:STRAWBERRY": 0.0,
+          "tile:plant:WHEAT": 12.0,
+          "tile:animal:COW": 2.0,
+          "tile:animal:SHEEP": 3.0,
+          "tile:animal:GOOSE": 0.0
+        },
+        "119": {
+          "cash": 69.0,
+          "hands": 6.0,
+          "shed_value": 0.0,
+          "tile:plant:STRAWBERRY": 7.0,
+          "tile:plant:WHEAT": 1.0,
+          "tile:animal:COW": 5.0,
+          "tile:animal:SHEEP": 3.0,
+          "tile:animal:GOOSE": 0.0
+        },
+        "239": {
+          "cash": 456.0,
+          "hands": 10.0,
+          "shed_value": 111.0,
+          "tile:plant:STRAWBERRY": 21.0,
+          "tile:plant:WHEAT": 20.0,
+          "tile:animal:COW": 7.0,
+          "tile:animal:SHEEP": 3.0,
+          "tile:animal:GOOSE": 5.0
+        },
+        "479": {
+          "cash": 54679.0,
+          "hands": 11.0,
+          "shed_value": 447.0,
+          "tile:plant:STRAWBERRY": 24.0,
+          "tile:plant:WHEAT": 19.0,
+          "tile:animal:COW": 8.0,
+          "tile:animal:SHEEP": 5.0,
+          "tile:animal:GOOSE": 6.0
+        },
+        "695": {
+          "cash": 96395.5,
+          "hands": 10.0,
+          "shed_value": 348.5,
+          "tile:plant:STRAWBERRY": 6.0,
+          "tile:plant:WHEAT": 13.0,
+          "tile:animal:COW": 7.0,
+          "tile:animal:SHEEP": 4.0,
+          "tile:animal:GOOSE": 6.0
+        },
+        "718": {
+          "cash": 104159.5,
+          "hands": 10.0,
+          "shed_value": 0.0,
+          "tile:plant:STRAWBERRY": 4.0,
+          "tile:plant:WHEAT": 0.0,
+          "tile:animal:COW": 6.0,
+          "tile:animal:SHEEP": 1.0,
+          "tile:animal:GOOSE": 5.0
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "hosted_snapshot_games": 57,
+  "hosted_wins": 31,
+  "hosted_losses": 26,
+  "exact_first_reproductions": 30,
+  "exact_first_reproduction_failures": 0,
+  "second_h5_wins_fixed_tape": 32,
+  "second_h5_losses_fixed_tape": 25,
+  "loss_to_win": [
+    115739060
+  ],
+  "win_to_loss": [],
+  "mean_margin_delta": 83.24561403508773,
+  "median_margin_delta": 11.0,
+  "positive_margin_delta_games": 30,
+  "negative_margin_delta_games": 27,
+  "limitation": "Opponent actions are fixed to the recorded tape and do not react to the candidate's changed state.",
+  "submission_performed": false
+}

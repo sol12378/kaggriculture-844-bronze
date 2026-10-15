@@ -1,0 +1,58 @@
+{
+  "schema": "kaggriculture-upload-payload-audit/v1",
+  "status": "PASS",
+  "payloads": [
+    {
+      "archive": "aurax_v7_submission.tar.gz",
+      "archive_sha256": "6f054f9ca2c9c7ae03dec7d2f3f37257e05ebe4b833e96287208d84ce39084dd",
+      "main_sha256": "e221f4875daff8b03e8f0ec7c86bd3a2a72c0768b049d4c25064abd5301a532b",
+      "archive_members": [
+        "LICENSE",
+        "NOTICE",
+        "main.py"
+      ],
+      "total_bytes": 144913,
+      "main_bytes": 347606,
+      "parsed_python_units": 1,
+      "imports": [
+        "__future__",
+        "base64",
+        "copy",
+        "itertools",
+        "json",
+        "math",
+        "zlib"
+      ],
+      "secret_pattern_matches": 0,
+      "network_or_file_io_imports": [],
+      "source_notice_present": true,
+      "apache_license_present": true
+    },
+    {
+      "archive": "submission.tar.gz",
+      "archive_sha256": "b5f82d69f5a5d8a4c377193b9560c31838bee16bebc63a6891e226e6a7797f2e",
+      "main_sha256": "3d6d319ff918fc2da62447a61186094a02eef1b0be075bcd7d928f67247b8e6b",
+      "archive_members": [
+        "LICENSE",
+        "NOTICE",
+        "main.py"
+      ],
+      "total_bytes": 147216,
+      "main_bytes": 363766,
+      "parsed_python_units": 3,
+      "imports": [
+        "__future__",
+        "base64",
+        "copy",
+        "itertools",
+        "json",
+        "math",
+        "zlib"
+      ],
+      "secret_pattern_matches": 0,
+      "network_or_file_io_imports": [],
+      "source_notice_present": true,
+      "apache_license_present": true
+    }
+  ]
+}

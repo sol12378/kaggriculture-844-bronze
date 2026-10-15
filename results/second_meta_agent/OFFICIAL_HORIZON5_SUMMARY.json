@@ -1,0 +1,53 @@
+{
+  "engine": "kaggle-environments 1.32.7",
+  "loader": "file paths in env.run",
+  "fresh_seed_overlap_with_search": false,
+  "summary": [
+    {
+      "case": "h5_vs_first",
+      "games": 32,
+      "seed_pairs": 16,
+      "wins": 32,
+      "losses": 0,
+      "ties": 0,
+      "mean_margin": 430.625
+    },
+    {
+      "case": "h5_vs_v4",
+      "games": 32,
+      "seed_pairs": 16,
+      "wins": 28,
+      "losses": 4,
+      "ties": 0,
+      "mean_margin": 562.875
+    },
+    {
+      "case": "q1_vs_v4_control",
+      "games": 32,
+      "seed_pairs": 16,
+      "wins": 26,
+      "losses": 6,
+      "ties": 0,
+      "mean_margin": 525.1875
+    },
+    {
+      "case": "h5_vs_aurax",
+      "games": 16,
+      "seed_pairs": 8,
+      "wins": 16,
+      "losses": 0,
+      "ties": 0,
+      "mean_margin": 674.625
+    },
+    {
+      "case": "q1_vs_aurax_control",
+      "games": 16,
+      "seed_pairs": 8,
+      "wins": 16,
+      "losses": 0,
+      "ties": 0,
+      "mean_margin": 624.875
+    }
+  ],
+  "submission_performed": false
+}

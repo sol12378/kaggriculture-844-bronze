@@ -1,0 +1,6 @@
+Kaggriculture top-100 public replay distilled agent, 2026-09-30.
+The route-replay chassis is derived from Apache-2.0 public code.
+Original attribution and license text are retained in main.py and LICENSE.
+Selected action routes derive from completed public Kaggle replays;
+no competitor source code, opponent private observation or full replay is included.
+This archive was prepared locally. It has not been submitted by this script.

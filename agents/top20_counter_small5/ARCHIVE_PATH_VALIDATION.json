@@ -1,0 +1,124 @@
+{
+  "engine": "kaggle-environments 1.32.7",
+  "archive_sha256": "170a7dbd489362738844efbeae04a24114f8a427437dd7788a94c070d8d2b36d",
+  "method": "extract archive then pass main.py path to env.run",
+  "games": [
+    {
+      "opponent": "public_parent",
+      "seat": 0,
+      "status": "DONE",
+      "game_steps": 720,
+      "reward": 148244.0,
+      "opponent_reward": 148240.0,
+      "first_action": {
+        "farmer": [
+          "PASS"
+        ],
+        "hands": [],
+        "market": [
+          [
+            "BUY_PRODUCT",
+            "WHEAT",
+            7
+          ],
+          [
+            "SELL",
+            "WHEAT",
+            2
+          ]
+        ]
+      },
+      "active_turns": 719,
+      "loader_fallback": false,
+      "log_excerpt": ""
+    },
+    {
+      "opponent": "public_parent",
+      "seat": 1,
+      "status": "DONE",
+      "game_steps": 720,
+      "reward": 148244.0,
+      "opponent_reward": 148240.0,
+      "first_action": {
+        "farmer": [
+          "PASS"
+        ],
+        "hands": [],
+        "market": [
+          [
+            "BUY_PRODUCT",
+            "WHEAT",
+            7
+          ],
+          [
+            "SELL",
+            "WHEAT",
+            2
+          ]
+        ]
+      },
+      "active_turns": 719,
+      "loader_fallback": false,
+      "log_excerpt": ""
+    },
+    {
+      "opponent": "local_v4",
+      "seat": 0,
+      "status": "DONE",
+      "game_steps": 720,
+      "reward": 148383.0,
+      "opponent_reward": 148054.0,
+      "first_action": {
+        "farmer": [
+          "PASS"
+        ],
+        "hands": [],
+        "market": [
+          [
+            "BUY_PRODUCT",
+            "WHEAT",
+            7
+          ],
+          [
+            "SELL",
+            "WHEAT",
+            2
+          ]
+        ]
+      },
+      "active_turns": 719,
+      "loader_fallback": false,
+      "log_excerpt": ""
+    },
+    {
+      "opponent": "local_v4",
+      "seat": 1,
+      "status": "DONE",
+      "game_steps": 720,
+      "reward": 148383.0,
+      "opponent_reward": 148054.0,
+      "first_action": {
+        "farmer": [
+          "PASS"
+        ],
+        "hands": [],
+        "market": [
+          [
+            "BUY_PRODUCT",
+            "WHEAT",
+            7
+          ],
+          [
+            "SELL",
+            "WHEAT",
+            2
+          ]
+        ]
+      },
+      "active_turns": 719,
+      "loader_fallback": false,
+      "log_excerpt": ""
+    }
+  ],
+  "submission_performed": false
+}

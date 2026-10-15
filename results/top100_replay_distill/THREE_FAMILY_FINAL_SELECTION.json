@@ -1,0 +1,352 @@
+{
+  "engine": "official kaggle_environments 1.32.7 path loader",
+  "seed_families": [
+    [
+      36330001,
+      36330068,
+      36330135,
+      36330202,
+      36330269,
+      36330336,
+      36330403,
+      36330470,
+      36330537,
+      36330604,
+      36330671,
+      36330738,
+      36330805,
+      36330872,
+      36330939,
+      36331006,
+      36331073,
+      36331140,
+      36331207,
+      36331274,
+      36331341,
+      36331408,
+      36331475,
+      36331542
+    ],
+    [
+      38330001,
+      38330068,
+      38330135,
+      38330202,
+      38330269,
+      38330336,
+      38330403,
+      38330470,
+      38330537,
+      38330604,
+      38330671,
+      38330738,
+      38330805,
+      38330872,
+      38330939,
+      38331006,
+      38331073,
+      38331140,
+      38331207,
+      38331274,
+      38331341,
+      38331408,
+      38331475,
+      38331542,
+      38331609,
+      38331676,
+      38331743,
+      38331810,
+      38331877,
+      38331944,
+      38332011,
+      38332078
+    ],
+    [
+      40330001,
+      40330068,
+      40330135,
+      40330202,
+      40330269,
+      40330336,
+      40330403,
+      40330470,
+      40330537,
+      40330604,
+      40330671,
+      40330738,
+      40330805,
+      40330872,
+      40330939,
+      40331006,
+      40331073,
+      40331140,
+      40331207,
+      40331274,
+      40331341,
+      40331408,
+      40331475,
+      40331542,
+      40331609,
+      40331676,
+      40331743,
+      40331810,
+      40331877,
+      40331944,
+      40332011,
+      40332078
+    ]
+  ],
+  "errors": 0,
+  "rankings": [
+    {
+      "agent": "rank95_front97",
+      "wins": 436,
+      "losses": 268,
+      "ties": 0,
+      "games": 704,
+      "halfwin_rate": 0.6193,
+      "peer_only_halfwin": 0.5985,
+      "mean_margin": 3351.74,
+      "pair_wins": 4,
+      "pair_losses": 0,
+      "worst_halfwin_rate": 0.5341,
+      "direct": {
+        "rank32_plus8_front97": {
+          "games": 176,
+          "seeds": 88,
+          "wins": 94,
+          "losses": 82,
+          "ties": 0,
+          "halfwin_rate": 0.5341,
+          "mean_margin": 961.61,
+          "seed_bootstrap_95_win": [
+            0.4318,
+            0.6364
+          ],
+          "seed_bootstrap_95_margin": [
+            -1247.94,
+            3219.75
+          ]
+        },
+        "environment_meta_front_97": {
+          "games": 176,
+          "seeds": 88,
+          "wins": 98,
+          "losses": 78,
+          "ties": 0,
+          "halfwin_rate": 0.5568,
+          "mean_margin": 1560.14,
+          "seed_bootstrap_95_win": [
+            0.4545,
+            0.6591
+          ],
+          "seed_bootstrap_95_margin": [
+            -1254.26,
+            4658.91
+          ]
+        },
+        "rank88_c_full": {
+          "games": 176,
+          "seeds": 88,
+          "wins": 124,
+          "losses": 52,
+          "ties": 0,
+          "halfwin_rate": 0.7045,
+          "mean_margin": 3690.11,
+          "seed_bootstrap_95_win": [
+            0.6136,
+            0.7955
+          ],
+          "seed_bootstrap_95_margin": [
+            2667.99,
+            4729.27
+          ]
+        },
+        "submitted": {
+          "games": 176,
+          "seeds": 88,
+          "wins": 120,
+          "losses": 56,
+          "ties": 0,
+          "halfwin_rate": 0.6818,
+          "mean_margin": 7195.1,
+          "seed_bootstrap_95_win": [
+            0.5795,
+            0.7727
+          ],
+          "seed_bootstrap_95_margin": [
+            4476.09,
+            9888.83
+          ]
+        }
+      }
+    },
+    {
+      "agent": "rank32_plus8_front97",
+      "wins": 427,
+      "losses": 277,
+      "ties": 0,
+      "games": 704,
+      "halfwin_rate": 0.6065,
+      "peer_only_halfwin": 0.517,
+      "mean_margin": 2656.15,
+      "pair_wins": 2,
+      "pair_losses": 2,
+      "worst_halfwin_rate": 0.4659,
+      "direct": {
+        "rank95_front97": {
+          "games": 176,
+          "seeds": 88,
+          "wins": 82,
+          "losses": 94,
+          "ties": 0,
+          "halfwin_rate": 0.4659,
+          "mean_margin": -961.61,
+          "seed_bootstrap_95_win": [
+            0.3636,
+            0.5682
+          ],
+          "seed_bootstrap_95_margin": [
+            -3219.75,
+            1247.94
+          ]
+        },
+        "environment_meta_front_97": {
+          "games": 176,
+          "seeds": 88,
+          "wins": 109,
+          "losses": 67,
+          "ties": 0,
+          "halfwin_rate": 0.6193,
+          "mean_margin": 3906.7,
+          "seed_bootstrap_95_win": [
+            0.517,
+            0.7159
+          ],
+          "seed_bootstrap_95_margin": [
+            2134.14,
+            5980.64
+          ]
+        },
+        "rank88_c_full": {
+          "games": 176,
+          "seeds": 88,
+          "wins": 82,
+          "losses": 94,
+          "ties": 0,
+          "halfwin_rate": 0.4659,
+          "mean_margin": -1352.01,
+          "seed_bootstrap_95_win": [
+            0.3636,
+            0.5682
+          ],
+          "seed_bootstrap_95_margin": [
+            -2816.61,
+            189.05
+          ]
+        },
+        "submitted": {
+          "games": 176,
+          "seeds": 88,
+          "wins": 154,
+          "losses": 22,
+          "ties": 0,
+          "halfwin_rate": 0.875,
+          "mean_margin": 9031.52,
+          "seed_bootstrap_95_win": [
+            0.8068,
+            0.9432
+          ],
+          "seed_bootstrap_95_margin": [
+            7397.07,
+            10682.2
+          ]
+        }
+      }
+    },
+    {
+      "agent": "environment_meta_front_97",
+      "wins": 370,
+      "losses": 334,
+      "ties": 0,
+      "games": 704,
+      "halfwin_rate": 0.5256,
+      "peer_only_halfwin": 0.4186,
+      "mean_margin": 346.94,
+      "pair_wins": 1,
+      "pair_losses": 3,
+      "worst_halfwin_rate": 0.3807,
+      "direct": {
+        "rank95_front97": {
+          "games": 176,
+          "seeds": 88,
+          "wins": 78,
+          "losses": 98,
+          "ties": 0,
+          "halfwin_rate": 0.4432,
+          "mean_margin": -1560.14,
+          "seed_bootstrap_95_win": [
+            0.3409,
+            0.5455
+          ],
+          "seed_bootstrap_95_margin": [
+            -4658.91,
+            1254.26
+          ]
+        },
+        "rank32_plus8_front97": {
+          "games": 176,
+          "seeds": 88,
+          "wins": 67,
+          "losses": 109,
+          "ties": 0,
+          "halfwin_rate": 0.3807,
+          "mean_margin": -3906.7,
+          "seed_bootstrap_95_win": [
+            0.2841,
+            0.483
+          ],
+          "seed_bootstrap_95_margin": [
+            -5980.64,
+            -2134.14
+          ]
+        },
+        "rank88_c_full": {
+          "games": 176,
+          "seeds": 88,
+          "wins": 76,
+          "losses": 100,
+          "ties": 0,
+          "halfwin_rate": 0.4318,
+          "mean_margin": -2160.7,
+          "seed_bootstrap_95_win": [
+            0.3295,
+            0.5341
+          ],
+          "seed_bootstrap_95_margin": [
+            -4801.96,
+            155.59
+          ]
+        },
+        "submitted": {
+          "games": 176,
+          "seeds": 88,
+          "wins": 149,
+          "losses": 27,
+          "ties": 0,
+          "halfwin_rate": 0.8466,
+          "mean_margin": 9015.31,
+          "seed_bootstrap_95_win": [
+            0.767,
+            0.9205
+          ],
+          "seed_bootstrap_95_margin": [
+            7348.44,
+            10692.26
+          ]
+        }
+      }
+    }
+  ],
+  "winner": "rank95_front97"
+}

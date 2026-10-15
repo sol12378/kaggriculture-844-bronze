@@ -1,0 +1,22 @@
+# credentials and local state
+.env
+*.env
+kaggle.json
+.kaggle/
+.uv-cache/
+.venv/
+venv/
+
+# build caches
+__pycache__/
+*.pyc
+
+# downloaded third-party data (re-download with tools/top100_replay_distill/download_replays.py)
+replays/
+episodes/
+episode-*.json
+TRAJECTORIES.jsonl
+REPLAY_AUDIT.jsonl
+
+# scratch files
+.tmp_*
