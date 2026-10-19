@@ -1,12 +1,12 @@
 # kaggriculture-401-silver
 
-Kaggriculture 参戦記録（401位・銀メダル）
+Kaggriculture 参戦記録（844位・銅メダル）
 
 Kaggle の Simulation コンペ **Kaggriculture**（2人対戦の農場経営エージェント競技）の参戦記録です。
-最終順位は **401位（銀メダル）、公開スコア 2185.6** でした。
+最終順位は **844位（銅メダル）、最終スコア 4429.3**（参加 10,148 チーム）でした。
 
 > English summary: This repository documents my entry to the Kaggle *Kaggriculture* simulation competition
-> (final: rank 401, silver medal, score 2185.6). The final agent is a **rule-based route-replay agent distilled from
+> (final: rank 844 of 10,148 teams, bronze medal, score 4429.3). The final agent is a **rule-based route-replay agent distilled from
 > public top-100 replays**, built on Apache-2.0 public notebooks. No neural network or reinforcement learning was used.
 > The repository also records what did *not* work, including a large gap between local win rates and the hosted rating.
 
@@ -17,7 +17,7 @@ Kaggle の Simulation コンペ **Kaggriculture**（2人対戦の農場経営エ
 | 名前 | `rank95_front97` |
 | 提出 ID | 56720329（2026-10-01 07:34 JST 提出） |
 | 提出直後のスコア | 1057.9 |
-| 最終スコア | **2185.6**（401位） |
+| 最終スコア | **4429.3**（844位・銅メダル） |
 | 方式 | 公開リプレイ（95位の対戦）の行動ルートを再生し、ルールベースで補正 |
 | Kaggle ノートブック | [Kaggriculture 401 Silver rank95 front97](https://www.kaggle.com/code/sol12378/kaggriculture-401-silver-rank95-front97)（Apache 2.0、2026-10-15 公開） |
 
@@ -34,10 +34,11 @@ Kaggle の Simulation コンペ **Kaggriculture**（2人対戦の農場経営エ
 | 09-30 | 56692403 | ORTHO V4 mask32 | 1296.6 | 1296.6 |
 | 09-30 | 56693932 | Top20 リプレイ蒸留（入口関数の不具合） | 149.2 | 149.2 |
 | 09-30 | 56702533 | Top20 counter small5 | 1254.4 | 1256.4 |
-| 10-01 | 56720329 | **Top100 蒸留 rank95_front97** | 1057.9 | **2185.6** |
+| 10-01 | 56720329 | **Top100 蒸留 rank95_front97** | 1057.9 | **2185.6**（途中値。最終は 4429.3） |
 
-「提出直後」は `results/SUBMISSIONS.csv` の記録（Kaggle CLI で読み取った値）です。「最終」は提出ページに表示された値で、
-`-` は最終値を記録していません。レーティングは対戦が進むと大きく動くため、提出直後の値は参考になりませんでした。
+「提出直後」は `results/SUBMISSIONS.csv` の記録（Kaggle CLI で読み取った値）です。「最終」は最終集計の前に提出ページで確認した値で、
+`-` は最終値を記録していません。最終順位とスコアは、競技終了後の最終リーダーボード（Bradley-Terry 集計）の 844位・4429.3 です。
+途中値と最終スコアは集計方法が違うため、直接は比べられません。レーティングは対戦が進むと大きく動くため、提出直後の値は参考になりませんでした。
 
 ## リポジトリ構成
 
