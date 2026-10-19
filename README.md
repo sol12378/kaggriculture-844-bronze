@@ -1,4 +1,4 @@
-# kaggriculture-401-silver
+# kaggriculture-844-bronze
 
 Kaggriculture 参戦記録（844位・銅メダル）
 
